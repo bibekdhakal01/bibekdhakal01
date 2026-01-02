@@ -18,30 +18,30 @@ I am a motivated computing student with hands-on experience in software developm
 
 **Technical Skills**
 
-      •	Programming Languages
+      **Programming Languages**
       
-      •	Python
-      
-      •	C++
-      
-      •	PHP
-      
-      •	JavaScript
-      
-      •	HTML / CSS
+            •	Python
+            
+            •	C++
+            
+            •	PHP
+            
+            •	JavaScript
+            
+            •	HTML / CSS
 
 
-**Tools & Technologies**
+      **Tools & Technologies**
 
-      •	Git & GitHub
-      
-      •	Vs code
+            •	Git & GitHub
+            
+            •	Vs code
 
-      •Google Colab / Jupyter Notebook
-      
-      •	Basic Web Development (Frontend & Backend)
-      
-      •	Databases (conceptual & academic use)
+            •     Google Colab / Jupyter Notebook
+            
+            •	Basic Web Development (Frontend & Backend)
+            
+            •	Databases (conceptual & academic use)
 
 
 **Areas of Interest**
