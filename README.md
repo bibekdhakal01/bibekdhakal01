@@ -4,7 +4,7 @@ Aspiring Software Engineer & AI Enthusiast
 Kathmandu, Nepal
 
 I am a motivated computing student with hands-on experience in software development, system design, and academic projects. 
-My interests lie in Artificial Intelligence, Machine Learning, backend development,and building scalable, real-world applications. I focus on writing clean, maintainable code and continuously improving mytechnical and problem-solving skills.
+My interests lie in Artificial Intelligence, Machine Learning, backend development,and building scalable, real-world applications. I focus on writing clean, maintainable code and continuously improving my technical and problem-solving skills.
 
       **Professional Summary**
 
