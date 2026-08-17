@@ -4,9 +4,7 @@
 
 # BIBEK DHAKAL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Backend+%26+Systems+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
-
-<br/>
+### Aspiring Software Engineer · AI & Machine Learning Enthusiast · Backend Developer
 
 <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-0B0C10?style=for-the-badge&logo=googlemaps&logoColor=E8B923&labelColor=0B0C10"/>
 <img src="https://img.shields.io/github/followers/bibekdhakal01?style=for-the-badge&logo=github&label=Followers&color=0B0C10&labelColor=0B0C10&logoColor=00E5FF"/>
@@ -39,7 +37,7 @@ I'm a motivated **Computing student** with hands-on experience in software devel
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="./profile.jpg" width="230" height="230" style="border-radius:50%;object-fit:cover;border:4px solid #E8B923;" alt="Bibek Dhakal"/>
+<img src="./146936344.jpg" width="550" height="550" style="border-radius:30%;object-fit:cover;border:4px solid #E8B923;" alt="Bibek Dhakal"/>
 
 </td>
 </tr>
@@ -53,29 +51,17 @@ I'm a motivated **Computing student** with hands-on experience in software devel
 
 <img src="https://skillicons.dev/icons?i=python,cpp,php,js,git,github"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </div>
 
 <br/>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center"> 
+  
+  <img src="./dist/stats.svg" width="48%" alt="Bibek's GitHub Stats"/> <img src="./dist/languages.svg" width="42%" alt="Top Languages"/> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibekdhakal01&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&icon_color=E8B923&title_color=00E5FF&text_color=c9d1d9&bg_color=0B0C10" width="48%" alt="Bibek's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekdhakal01&layout=compact&theme=dracula&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0B0C10" width="42%" alt="Top Languages"/>
-
-</div>
-
->
+</div> 
 
 <br/>
 
@@ -96,9 +82,9 @@ I'm a motivated **Computing student** with hands-on experience in software devel
 <div align="center">
 
 <!-- swap the # for your real links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-0B0C10?style=for-the-badge&logo=gmail&logoColor=E8B923"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-0B0C10?style=for-the-badge&logo=instagram&logoColor=00E5FF"/></a>
+<a href="https://www.linkedin.com/in/bibek-dhakal-7bb62a283/"><img src="https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFrLKXgMhRfNVrPBrRbqVfqVddxcdsbqHZDNpWMJXTmnXLMntdcSKVbdvtpVSxlTMGTrQb"><img src="https://img.shields.io/badge/Gmail-0B0C10?style=for-the-badge&logo=gmail&logoColor=E8B923"/></a>
+<a href="https://www.instagram.com/bibek_dhakaal/?hl=en"><img src="https://img.shields.io/badge/Instagram-0B0C10?style=for-the-badge&logo=instagram&logoColor=00E5FF"/></a>
 
 </div>
 
