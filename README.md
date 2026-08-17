@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Hi%20There,%20I'm%20Bibek%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,50:C0392B,100:E8B923&height=200&section=header&text=J.A.R.V.I.S.%20//%20BIBEK%20DHAKAL&fontSize=34&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Protocol%20%7C%20AI%20Systems%20Online&descAlignY=58&descSize=16&descColor=E8B923" width="100%"/>
 
 <a href="https://github.com/bibekdhakal01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1BFFFF&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Backend+%26+Systems+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Good+day%2C+Sir.+Systems+online.;Initializing+Bibek+Dhakal.exe...;AI+%2F+ML+%2F+Backend+Protocols+loaded;Ready+to+build.+Awaiting+input..." alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,23 +12,31 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="62%">
 
-### 👨‍💻 About Me
+### ⚡ System Profile
 
-I'm a motivated **Computing student** from **Kathmandu, Nepal**, with hands-on experience in software development, system design, and academic projects.
+```
+> USER........... Bibek Dhakal
+> ROLE........... Software Engineer (in training)
+> LOCATION........ Kathmandu, Nepal
+> STATUS.......... Online — building & learning
+> CORE FOCUS...... AI · Machine Learning · Backend Dev
+```
 
-- 🔭 Currently sharpening skills in **AI**, **Machine Learning**, and **Backend Development**
-- 🌱 Building scalable, real-world applications with clean, maintainable code
-- 🤝 Comfortable with **Git/GitHub** and collaborative development workflows
-- 🎯 Preparing for roles in **Software Engineering** and **AI-focused** positions
-- 💬 Ask me about **Python, C++, Web Development, or AI/ML basics**
-- ⚡ Fun fact: I enjoy turning ideas into working prototypes
+I'm a motivated **Computing student** with hands-on experience in software development, system design, and academic projects. My mission — much like a certain AI running a certain suit — is to build clean, reliable systems and keep improving with every iteration.
+
+- 🔴 Strong foundation in programming & data structures
+- 🟡 Experience with web systems, management apps, academic projects
+- 🔵 Fluent with Git/GitHub & collaborative dev workflows
+- ⚙️ Actively engineering projects toward AI-focused software roles
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="38%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibekdhakal01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="./profile.jpg" width="230" style="border-radius:50%;border:4px solid #E8B923;" alt="Bibek Dhakal"/>
+
+<br/><sub>🔵 <b>ARC REACTOR STATUS: STABLE</b> 🔴</sub>
 
 </td>
 </tr>
@@ -36,79 +44,62 @@ I'm a motivated **Computing student** from **Kathmandu, Nepal**, with hands-on e
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Suit Loadout (Tech Stack)
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,cpp,php,js,git,github" />
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 Mission Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekdhakal01&layout=compact&theme=tokyonight&hide_border=true" width="46%"/>
-<img src="https://streak-stats.demolab.com/?user=bibekdhakal01&theme=tokyonight&hide_border=true" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bibekdhakal01&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&icon_color=E8B923&title_color=00E5FF&text_color=c9d1d9&bg_color=0B0C10" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekdhakal01&layout=compact&theme=dracula&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0B0C10" width="46%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekdhakal01&theme=tokyo-night&hide_border=true" width="94%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekdhakal01&theme=react-dark&hide_border=true&bg_color=0B0C10&color=00E5FF&line=E8B923&point=ffffff" width="94%"/>
 
 </div>
 
 <br/>
 
-## 🎯 Areas of Interest
+## 🎯 Active Directives
 
 <div align="center">
 
-| 🤖 AI & Machine Learning | 🖥️ Backend Development | ⚙️ System Design | 🧑‍💻 SE Best Practices |
+| 🔴 AI & ML | 🟡 Backend Dev | 🔵 System Design | ⚙️ SE Best Practices |
 |:---:|:---:|:---:|:---:|
-| Building intelligent, data-driven applications | Designing robust APIs & server-side logic | Optimizing for performance & scalability | Writing clean, maintainable, testable code |
+| Training intelligent systems | Building the engine room | Optimizing for scale | Clean, maintainable code |
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/bibekdhakal01/bibekdhakal01/output/github-contribution-grid-snake.svg" width="90%" alt="snake contribution graph"/>
-</div>
-
-> 💡 To activate the snake graph above, add the [`snk`](https://github.com/Platane/snk) GitHub Action to this repo (instructions in the notes section below).
-
-<br/>
-
-## 🤝 Connect With Me
+## 📡 Comms Channel
 
 <div align="center">
 
-<!-- Replace the # below with your real profile links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<!-- swap the # for your real links -->
+<a href="https://www.linkedin.com/in/bibek-dhakal-7bb62a283/"><img src="https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="bibekdkl1122@gmail.coom"><img src="https://img.shields.io/badge/Gmail-0B0C10?style=for-the-badge&logo=gmail&logoColor=E8B923"/></a>
+<a href="https://www.instagram.com/bibek_dhakaal/?hl=en"><img src="https://img.shields.io/badge/Instagram-0B0C10?style=for-the-badge&logo=instagram&logoColor=00E5FF"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8B923,50:C0392B,100:0B0C10&height=110&section=footer" width="100%"/>
 
 <div align="center">
 
-⭐️ *"Continuously learning, continuously building."* ⭐️
+<sub>🔵 "Sometimes you gotta run before you can walk." — building in public, one commit at a time. 🔴</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bibekdhakal01&color=1BFFFF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=bibekdhakal01&color=00E5FF&style=flat)
 
 </div>
