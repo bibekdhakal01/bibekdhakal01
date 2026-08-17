@@ -87,7 +87,7 @@ I'm a motivated **Computing student** with hands-on experience in software devel
 
 <!-- swap the # for your real links -->
 <a href="https://www.linkedin.com/in/bibek-dhakal-7bb62a283/"><img src="https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="bibekdkl1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B0C10?style=for-the-badge&logo=gmail&logoColor=E8B923"/></a>
+<a href="[bibekdkl1122@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHDcdtHhPMsgwvNxbVxrBPbGQjcMTbLqjdNVGsblzQLNRgMtwcbjtwWkwRgcnTxCwlJwg)"><img src="https://img.shields.io/badge/Gmail-0B0C10?style=for-the-badge&logo=gmail&logoColor=E8B923"/></a>
 <a href="https://www.instagram.com/bibek_dhakaal/?hl=en"><img src="https://img.shields.io/badge/Instagram-0B0C10?style=for-the-badge&logo=instagram&logoColor=00E5FF"/></a>
 
 </div>
