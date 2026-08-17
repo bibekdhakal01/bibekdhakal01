@@ -18,7 +18,7 @@
 <tr>
 <td valign="top" width="60%">
 
-### 👨‍💻 About Me
+### About Me
 
 ```
 Name........ Bibek Dhakal
@@ -29,10 +29,10 @@ Focus....... AI · Machine Learning · Backend Development
 
 I'm a motivated **Computing student** with hands-on experience in software development, system design, and academic projects. My interests lie in Artificial Intelligence, Machine Learning, and backend development, with a focus on building scalable, real-world applications.
 
-- 🔴 Strong foundation in programming & data structures
-- 🟡 Experience with web systems, management apps, and academic projects
-- 🔵 Comfortable with Git/GitHub and collaborative dev workflows
-- ⚙️ Actively building projects toward AI-focused software roles
+    Strong foundation in programming & data structures
+    Experience with web systems, management apps, and academic projects
+    Comfortable with Git/GitHub and collaborative dev workflows
+    Actively building projects toward AI-focused software roles
 
 </td>
 <td valign="top" width="40%" align="center">
@@ -47,7 +47,7 @@ I'm a motivated **Computing student** with hands-on experience in software devel
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,cpp,php,js,git,github"/>
 
@@ -55,7 +55,7 @@ I'm a motivated **Computing student** with hands-on experience in software devel
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center"> 
   
@@ -65,11 +65,12 @@ I'm a motivated **Computing student** with hands-on experience in software devel
 
 <br/>
 
-## 🎯 Areas of Interest
+##
+Areas of Interest
 
 <div align="center">
 
-| 🔴 AI & ML | 🟡 Backend Dev | 🔵 System Design | ⚙️ SE Best Practices |
+| AI & ML | Backend Dev | System Design | SE Best Practices |
 |:---:|:---:|:---:|:---:|
 | Building intelligent, data-driven applications | Designing robust APIs & server-side logic | Optimizing for performance & scalability | Writing clean, maintainable, testable code |
 
@@ -77,7 +78,7 @@ I'm a motivated **Computing student** with hands-on experience in software devel
 
 <br/>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
